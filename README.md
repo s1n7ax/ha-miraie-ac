@@ -18,7 +18,7 @@
 2. Go to "HACS" (Home Assistant Community Store).
 3. Click the three dots in the upper right corner and select "Custom repositories".
 5. Under "Add custom repository", enter:
-    - **URL:** `https://github.com/rkzofficial/ha-miraie-ac`
+    - **URL:** `https://github.com/s1n7ax/ha-miraie-ac`
     - **Category:** Integration
 6. Click "Add".
 7. Go back to the "Home Assistant Community Store" search in HACS.
